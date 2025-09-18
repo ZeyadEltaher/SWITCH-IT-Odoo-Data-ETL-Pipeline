@@ -8,6 +8,7 @@ By using this pipeline, you can:
 - Handle your datasets without losing data consistency.
 - Clean and transform data before loading it into the database.
 - Keep your database up-to-date with the latest Odoo records.
+- Optimizing the performance of your database for querying data.
 
 ---
 
@@ -23,6 +24,7 @@ By using this pipeline, you can:
 - Loads data into **MySQL cloud database** using `pymysql`.
 - Maintains **data consistency** by truncating tables before each run.
 - Fully automated: run the script to refresh all tables with the latest data.
+- Optimizing querying of data by using indexes to reduce execution time.
 
 ---
 

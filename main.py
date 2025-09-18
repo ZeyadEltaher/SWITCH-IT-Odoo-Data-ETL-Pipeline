@@ -219,6 +219,8 @@ print("Products sent to Database Successfully")
 #===========================================================================================#
 #===========================================================================================#
 
+cr.execute("""CREATE INDEX idx_first_name_customers ON customers(first_name)""")
+
 connect.close()
 
 session.close()
