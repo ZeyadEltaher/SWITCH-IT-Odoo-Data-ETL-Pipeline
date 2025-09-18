@@ -1,7 +1,7 @@
-# Switch IT Odoo Data ETL Pipeline
+# SWITCH IT Odoo Data ETL Pipeline
 
 ## Overview
-This project is a **Python-based ETL pipeline** that extracts, transforms, and loads (ETL) data from a Switch IT Odoo instance into a **MySQL cloud database**. It allows you to automate the retrieval of Customers, Orders, and Products data, clean it, and store it in a structured way for further analysis or reporting.
+This project is a **Python-based ETL pipeline** that extracts, transforms, and loads (ETL) data from a SWITCH IT Odoo instance into a **MySQL cloud database**. It allows you to automate the retrieval of Customers, Orders, and Products data, clean it, and store it in a structured way for further analysis or reporting.
 
 By using this pipeline, you can:
 - Automatically sync Odoo data with your database.
